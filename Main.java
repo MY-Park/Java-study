@@ -1,5 +1,3 @@
-package org.opentutorials.javatutorials.io;
-
 import java.util.Scanner;
 
 public class Main {
