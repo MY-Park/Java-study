@@ -1,9 +1,9 @@
-package org.opentutorials.javatutorials.io;
+// Reference : https://github.com/jamesKoo/
 
 import java.util.Scanner;
 
 
-public class Main {
+public class FractalStars {
 	
 	public static char[][] output;
 	
